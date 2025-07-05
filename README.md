@@ -30,7 +30,7 @@ Ensure you have the following installed:
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/[username]/u-sh.git
+   git clone https://github.com/am-abdulmueed/u-sh.git
    cd u-sh
    ```
 
